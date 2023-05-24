@@ -1,0 +1,27 @@
+Script started on Tue 30 Mar 2021 12:20:10 AM CDT
+[?1034hbash-4.2$ project5_son_hzs0093.project5_son_hzs0093[C[C[C[C[C[C[C[C[C[C[C/project5_son_hzs0093[C[C[C[C[C[C[C[C[C[C[C[C
+Banner id: 904018762
+producer produce item 7
+consumer consume item 7
+producer produce item 14
+consumer consume item 14
+producer produce item 21
+consumer consume item 21
+producer produce item 28
+consumer consume item 28
+producer produce item 35
+consumer consume item 35
+producer produce item 42
+consumer consume item 42
+producer produce item 49
+consumer consume item 49
+producer produce item 56
+consumer consume item 56
+producer produce item 63
+consumer consume item 63
+producer produce item 70
+consumer consume item 70
+bash-4.2$ exit
+exit
+
+Script done on Tue 30 Mar 2021 12:20:39 AM CDT
